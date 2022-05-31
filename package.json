@@ -23,7 +23,6 @@
     "@types/asana": "^0.18.5",
     "@types/luxon": "^2.3.2",
     "asana": "^0.18.14",
-    "chalk": "^5.0.1",
     "luxon": "^2.4.0"
   },
   "devDependencies": {
