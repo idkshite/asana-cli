@@ -20,7 +20,7 @@
     "@oclif/core": "^1",
     "@oclif/plugin-help": "^5",
     "@oclif/plugin-plugins": "^2.0.1",
-    "@types/asana": "^0.18.5",
+    "@types/asana": "^0.18.11",
     "@types/luxon": "^2.3.2",
     "asana": "^0.18.14",
     "luxon": "^2.4.0"
